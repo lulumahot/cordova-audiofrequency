@@ -1,0 +1,19 @@
+{
+  "name": "cordova-audiofrequency",
+  "version": "1.0.0",
+  "description": "This plugin captures the device's audio input stream and analyses it to return the maximum frequency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lulumahot/cordova-audiofrequency.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lulumahot/cordova-audiofrequency/issues"
+  },
+  "homepage": "https://github.com/lulumahot/cordova-audiofrequency#readme"
+}
