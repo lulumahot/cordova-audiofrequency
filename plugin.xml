@@ -44,8 +44,8 @@
         <source-file src="src/android/AudioFrequency.java" target-dir="src/com/cellules/cordova/audiofrequency" />
         <source-file src="src/android/ToneReceiver.java" target-dir="src/com/cellules/cordova/audiofrequency" />
 
-        <lib-file src="JTransforms-3.0.jar" arch="device" />
-        <lib-file src="JLargeArrays-1.2.jar" arch="device" />
+        <lib-file src="src/android/JTransforms-3.0.jar" arch="device" />
+        <lib-file src="src/android/JLargeArrays-1.2.jar" arch="device" />
 
     </platform>
 
