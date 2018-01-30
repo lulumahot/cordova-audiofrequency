@@ -1,6 +1,6 @@
 {
   "name": "cordova-audiofrequency",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "This plugin captures the device's audio input stream and analyses it to return the maximum frequency.",
   "cordova": {
     "id": "cordova-audiofrequency",
