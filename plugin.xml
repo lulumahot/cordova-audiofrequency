@@ -10,8 +10,6 @@
         <clobbers target="cordova.plugins.audiofrequency" />
     </js-module>
         
-    <dependency id="cordova-plugin-compat" version="^1.0.0" />
-
     <!-- ios -->
     <platform name="ios">
 
